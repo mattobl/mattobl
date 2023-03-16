@@ -15,9 +15,8 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/mattobl/mattobl/blob/output/github-contribution-grid-snake.gif)
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -40,4 +39,4 @@
   </a>
 </div>
 
-###
+![snake gif](https://github.com/mattobl/mattobl/blob/output/github-contribution-grid-snake.svg)
